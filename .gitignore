@@ -17,3 +17,5 @@
 *.csv
 /Big Data Analytics com R e Microsoft Azure Machine Learning/09 - Análise de Regressão com Linguagem R e Azure Machine Learning/src/Tools.zip
 .RData
+/Big Data Analytics com R e Microsoft Azure Machine Learning/Mini-projeto 01/utils.R
+/Big Data Analytics com R e Microsoft Azure Machine Learning/Mini-projeto 01/.gitignore
