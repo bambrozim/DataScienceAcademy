@@ -32,3 +32,6 @@
 /Big Data Real-Time Analytics com Python e Spark/06 - Processando Big Data com Spark/autoDataRDD.txt
 /Big Data Real-Time Analytics com Python e Spark/06 - Processando Big Data com Spark/metastore_db/
 *.log
+/Big Data Real-Time Analytics com Python e Spark/07 - Spark SQL/metastore_db/
+/Big Data Real-Time Analytics com Python e Spark/07 - Spark SQL/.ipynb_checkpoints/
+*.json
