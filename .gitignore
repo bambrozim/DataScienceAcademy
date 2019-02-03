@@ -30,3 +30,5 @@
 /Big Data Real-Time Analytics com Python e Spark/05 - Machine Learning em Python/.ipynb_checkpoints/
 /Big Data Real-Time Analytics com Python e Spark/06 - Processando Big Data com Spark/.ipynb_checkpoints/
 /Big Data Real-Time Analytics com Python e Spark/06 - Processando Big Data com Spark/autoDataRDD.txt
+/Big Data Real-Time Analytics com Python e Spark/06 - Processando Big Data com Spark/metastore_db/
+*.log
