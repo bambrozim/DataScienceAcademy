@@ -36,3 +36,6 @@
 /Big Data Real-Time Analytics com Python e Spark/07 - Spark SQL/.ipynb_checkpoints/
 *.json
 /Big Data Real-Time Analytics com Python e Spark/08 - Real-Time Analytics com Spark Streaming/.ipynb_checkpoints
+/Big Data Real-Time Analytics com Python e Spark/09 - Spark Machine Learning/data/
+/Big Data Real-Time Analytics com Python e Spark/09 - Spark Machine Learning/metastore_db/
+/Big Data Real-Time Analytics com Python e Spark/09 - Spark Machine Learning/.ipynb_checkpoints
